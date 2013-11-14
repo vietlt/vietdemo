@@ -13,7 +13,7 @@ class Book extends CI_Controller {
     }
 
     public function index(){
-        echo "<h3>Hello Worldssssssssss</h3>";
+        echo "<h3>Hello Worldsssssssssss</h3>";
         $this->load->view('master_view');
     }
 
